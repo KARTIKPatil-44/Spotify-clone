@@ -1,4 +1,3 @@
-markdown
 # Spotify Clone 🎵
 
 A basic clone of Spotify using HTML and CSS to replicate the design and layout of the popular music streaming platform.
@@ -12,7 +11,7 @@ A basic clone of Spotify using HTML and CSS to replicate the design and layout o
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KARTIKPatil-44/Spotify-clone.git
    ```
 2. Open the project folder and launch `index.html` in your preferred browser.
 
